@@ -1,0 +1,11 @@
+{
+    "name": "Automations",
+    "slug": "automations",
+    "version": "1.0.0",
+    "description": "Workflows & Webhooks",
+    "description_ar": "الأتمتة وسير العمل",
+    "is_active": true,
+    "provider": "Dev3bdulrahman\\Automations\\Providers\\AutomationServiceProvider",
+    "dependencies": [],
+    "order": 12
+}
