@@ -2,7 +2,7 @@
     "name": "dev-3bdulrahman/automations",
     "description": "Automated workflows and webhook streaming module for Laravel ERP.",
     "type": "library",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "license": "MIT",
     "authors": [
         {
