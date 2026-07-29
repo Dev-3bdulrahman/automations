@@ -1,11 +1,11 @@
 {
-    "name": "Automations",
-    "slug": "automations",
-    "version": "1.0.0",
-    "description": "Workflows & Webhooks",
-    "description_ar": "الأتمتة وسير العمل",
-    "is_active": true,
-    "provider": "Dev3bdulrahman\\Automations\\Providers\\AutomationServiceProvider",
-    "dependencies": [],
-    "order": 12
+  "name": "Automations",
+  "slug": "automations",
+  "version": "1.0.4",
+  "description": "Workflows & Webhooks",
+  "description_ar": "\u0627\u0644\u0623\u062a\u0645\u062a\u0629 \u0648\u0633\u064a\u0631 \u0627\u0644\u0639\u0645\u0644",
+  "is_active": true,
+  "provider": "Dev3bdulrahman\\Automations\\Providers\\AutomationServiceProvider",
+  "dependencies": [],
+  "order": 12
 }

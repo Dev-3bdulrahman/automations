@@ -1,32 +1,32 @@
 {
-    "name": "dev-3bdulrahman/automations",
-    "description": "Automated workflows and webhook streaming module for Laravel ERP.",
-    "type": "library",
-    "version": "1.0.2",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Abdulrahman",
-            "homepage": "https://3bdulrahman.com",
-            "role": "Developer"
-        }
-    ],
-    "require": {
-        "php": "^8.2|^8.3",
-        "laravel/framework": "^11.0|^12.0"
-    },
-    "autoload": {
-        "psr-4": {
-            "Dev3bdulrahman\\Automations\\": "src/"
-        }
-    },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Dev3bdulrahman\\Automations\\Providers\\AutomationServiceProvider"
-            ]
-        }
-    },
-    "minimum-stability": "stable",
-    "prefer-stable": true
+  "name": "dev-3bdulrahman/automations",
+  "description": "Automated workflows and webhook streaming module for Laravel ERP.",
+  "type": "library",
+  "version": "1.0.4",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Abdulrahman",
+      "homepage": "https://3bdulrahman.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^8.2|^8.3",
+    "laravel/framework": "^11.0|^12.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Dev3bdulrahman\\Automations\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Dev3bdulrahman\\Automations\\Providers\\AutomationServiceProvider"
+      ]
+    }
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
 }
